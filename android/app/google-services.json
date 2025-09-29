@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "580697236187",
+    "project_id": "materialcampus-11",
+    "storage_bucket": "materialcampus-11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580697236187:android:43d84a715b9b82aa6562fe",
+        "android_client_info": {
+          "package_name": "com.example.material_campus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMEshQtyF97qNIgnQr8Jo4oZoJP_wNdXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
